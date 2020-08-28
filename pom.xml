@@ -18,6 +18,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>ca.kryptogarten.utils</groupId>
+            <artifactId>KryptogartenUtils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
             <version>1.65</version>

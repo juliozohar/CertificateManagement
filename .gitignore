@@ -24,7 +24,17 @@ hs_err_pid*
 
 # IDEA files
 /.idea/
-CertificateManagement.iml
+*.iml
+*.eml
+*.userlibraries
+
+# Eclipse files
+/.settings/
+/bin/
+/target/
+.classpath
+.project
+.factorypath
 
 # Certificate objects
 *.cer
